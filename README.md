@@ -23,7 +23,7 @@ Step 6: Once the Selected check box displayed to the user processed in MainActiv
 
 Step 7: Save and run the application.
 
-
+ 
 ## Program:
  ```
 /*
